@@ -1,4 +1,4 @@
-# HTML5 e CSS 3
+# HTML5 e CSS3
 
 Projetos e estudos desenvolvidos durante minha jornada e evolução no aprendizado das linguagens HTML5 e CSS3. Estudo feito através dos cursos da escola **Curso em Vídeo do Gustavo Guanabara**.
 
