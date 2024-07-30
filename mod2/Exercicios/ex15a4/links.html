@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      a {
+        color: red;
+        text-decoration: none;
+        font-weight: bold;
+      }
+
+      a:visted {
+        color: rgb(65, 2, 2);
+      }
+
+      a:hover {
+        text-decoration: underline;
+        color: black;
+      }
+
+      .especial {
+        background-color: rgb(161, 24, 252);
+      }
+      a:active {
+        color: yellow;
+      }
+      a::after {
+        content: "[link]";
+        text-decoration: none;
+        color: darkgray;
+        font-weight: normal;
+      }
+    </style>
+    <title>Links personalizados</title>
+  </head>
+  <body>
+    <h1>Personalizando links</h1>
+    <ul>
+      <li>
+        <a href="https://github.com/patyfreitasbr" target="_blank"
+          >Repositório GitHub</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://www.youtube.com/@patyfreitasbr"
+          class="especial"
+          target="_blank"
+        >
+          Canal YouTube</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://patyfreitas.blogspot.com/"
+          target="
+          _blank"
+          >Blog Conteúdo</a
+        >
+      </li>
+    </ul>
+
+    <p></p>
+  </body>
+</html>

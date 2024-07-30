@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-image: linear-gradient(to right, #f1d8c9, #f2c3a7);
+}
+
+main {
+  background-color: #fff; /*cor fundo do texto*/
+  border-radius: 10px; /*arredonda borda*/
+  box-shadow: 5px, 15px, 25px, rgba(136, 109, 93, 0.616); /*quanto a sobra vai prolado, qto a sombra vai pra baixo, quanot a sombra vai espanhar, quanto de tranparentcia e cor essvai ter*/
+  width: 600px; /*largura cor fundo do texto*/
+  padding: 10px; /*acolchoamento, espaço borda latal site*/
+  margin: auto; /*centraliza ao tamanho total da tela*/
+}
+
+h1 {
+  color: #f39209;
+  text-align: center;
+  text-shadow: 1px 1px 2 rgba(129, 77, 5, 0.726);
+}
+
+h2 {
+  color: #125189;
+}
+
+p {
+  text-align: justify;
+}

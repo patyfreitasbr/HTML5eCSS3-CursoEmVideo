@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fonte externas</title>
+    <style>
+      @font-face {
+        font-family: "love";
+        src: url("fonts/love larry 400") format("opentype"),
+          url("fonts/love larry ttf.ttf") format("truetype");
+        font-weight: normal;
+        font-style: normal;
+      }
+
+      body {
+        font-family: "Courier New", Courier, monospace;
+      }
+
+      h1 {
+        font-family: "love", Times, serif;
+        font-size: 3em;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Título</h1>
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam totam
+      eveniet deserunt eligendi beatae. Distinctio laudantium quia repellat est
+      aperiam suscipit doloremque magnam quidem, mollitia eum eveniet odit, iste
+      quo.
+    </p>
+  </body>
+</html>
