@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html
+  lang="pt-br
+"
+>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Grouping tags</title>
+    <style>
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: dimgrey;
+        margin: 0;
+      }
+
+      header {
+        background-color: #fff;
+        padding-left: 10px;
+        margin: 10px;
+      }
+      nav {
+        text-decoration: none;
+        color: #fff;
+        font-weight: bold;
+      }
+
+      main {
+        background-color: #fff;
+        padding: 10px;
+        margin: 10px;
+      }
+
+      article {
+        background-color: lightgray;
+        padding: 5px;
+      }
+
+      article > aside {
+        /*aside filho de article*/
+        background-color: lightgray;
+      }
+      footer {
+        background-color: #000;
+        color: #fff;
+        padding: 1px;
+        margin: 0px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <!--conteudo do site-->
+      <h1>Meu site</h1>
+      <nav>
+        <a href="#">LINK</a>
+        <a href="#">LINK</a>
+        <a href="#">LINK</a>
+        <a href="#">LINK</a>
+        <a href="#">LINK</a>
+      </nav>
+    </header>
+
+    <main>
+      <!--conteudo do site-->
+      <section id="assuntos"></section>
+      <section id="notícias"></section>
+      <article>
+        <h2>Notícias sobre o Brasil</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi adipisci
+          aspernatur ut doloremque cupiditate itaque harum, placeat debitis,
+          consequuntur nobis earum! Aliquam nobis sit recusandae ullam
+          voluptatibus, iure reprehenderit modi.
+        </p>
+        <aside>
+          <!--conteudo periferico relativo ao artigo-->
+          <p>Artigo escrito por Lorem Ipsun</p>
+        </aside>
+      </article>
+      <article></article>
+    </main>
+
+    <footer>
+      <!--rodape-->
+      <p>Desenvolvido por Patrícia Freitas</p>
+    </footer>
+  </body>
+</html>
