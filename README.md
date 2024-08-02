@@ -11,6 +11,8 @@ Projetos e estudos desenvolvidos durante minha jornada e evolução no aprendiza
 # Estudos
 
 - [MUNDO 1 - Projetos e Estudos ](https://github.com/patyfreitasbr/estudos-HTML_CSS_JavaScript/tree/main/CursoEmVideo-HTML5eCSS3)
+- [Módulo 1 - Projetos, estudos e desafios](https://github.com/patyfreitasbr/estudos-HTML_CSS_JavaScript/tree/main/CursoEmVideo-HTML5eCSS3)
+- [Módulo 2 - Projetos, estudos e desafios](https://github.com/patyfreitasbr/HTML5eCSS3-CursoEmVideo/tree/main/mod2/Exercicios)
 
 ## Como visualizar o projeto
 
