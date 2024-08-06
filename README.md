@@ -4,22 +4,20 @@ Projetos e estudos desenvolvidos durante minha jornada e evolução no aprendiza
 
 ## Indice 🔗
 
-- [Estudos](#estudos)
-- [Como visualizar o projeto](#Como-visualizar-o-projeto)
+- [Conteúdos](#conteúdos)
+- [Como visualizar cada projeto](#Como-visualizar-cada-projeto)
 - [Contato](#contato)
 
-# Estudos
+# Conteúdos
+- [Módulo 1 - Projetos, estudos e desafios](https://github.com/patyfreitasbr/HTML5eCSS3-CursoEmVideo/tree/main/mod1)
+- [Módulo 2 - Projetos, estudos e desafios](https://github.com/patyfreitasbr/HTML5eCSS3-CursoEmVideo/tree/main/mod2)
 
-- [Módulo 1 - Projetos, estudos e desafios](https://github.com/patyfreitasbr/estudos-HTML_CSS_JavaScript/tree/main/CursoEmVideo-HTML5eCSS3)
-- [Módulo 2 - Projetos, estudos e desafios](https://github.com/patyfreitasbr/HTML5eCSS3-CursoEmVideo/tree/main/mod2/Exercicios)
+## Como visualizar cada projeto
 
-## Como visualizar o projeto
+Para visualizar cada projeto siga os passos abaixo:
 
-Para visualizar o projeto em seu navegador, siga os passos abaixo:
-
-1. Baixe o projeto em seu computador (clique no botão verde no alto na página "code" e clique em "Download ZIP".)
-2. Descompacte a pasta (use o software de sua preferência 7zip, winrar...).
-3. Clique no arquivo "index.html" e abrirá no seu navegador padrão.
+1. Acesse o projeto clicando no link do modulo desejado no marcador "Conteúdos" acima
+2. Navegue pelo repositorio do projeto e leia o REAME.MD nele você verá como visualizar cada projeto contido nele.
 
 ## Contato
 
