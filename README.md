@@ -5,15 +5,17 @@ Projetos e estudos desenvolvidos durante minha jornada e evolução no aprendiza
 ## Indice 🔗
 
 - [Conteúdos](#conteúdos)
-- [Projetos desenvolvidos](#projetos-desenvolvidos)
-- [Como visualizar cada projeto](#como-visualizar-cada-projeto)
+- [Projetos desenvolvidos](#projetos-finais-desenvolvidos)
+- [Conteúdos](#conteúdos)
 - [Contato](#contato)
 
 # Projetos finais desenvolvidos
   
   Clicando nos links você verá cada desafio/projeto final desenvolvido durante o curso. 
+| Nome   | Link  |
+|--------|---------|
+|Site Android | [acesse](https://patyfreitasbr.github.io/HTML5eCSS3-CursoEmVideo/mod2/Desafios/d010-site_android/site-android.html) |
 
-- [Site Android](https://patyfreitasbr.github.io/HTML5eCSS3-CursoEmVideo/mod2/Desafios/d010-site_android/site-android.html)
 
 
 # Conteúdos
