@@ -4,26 +4,27 @@ Projetos e estudos desenvolvidos durante minha jornada e evolução no aprendiza
 
 ## Indice 🔗
 
-- [Conteúdos](#conteúdos)
 - [Projetos desenvolvidos](#projetos-finais-desenvolvidos)
-- [Conteúdos](#conteúdos)
+- [Estudos](#estudos)
 - [Contato](#contato)
 
 # Projetos finais desenvolvidos
   
   Clicando nos links você verá cada desafio/projeto final desenvolvido durante o curso. 
-| Nome   | Link  |
-|--------|---------|
-|Site Android | [acesse](https://patyfreitasbr.github.io/HTML5eCSS3-CursoEmVideo/mod2/Desafios/d010-site_android/site-android.html) |
+| Nome   | Projeto| Site  |
+|--------|---------|---------|
+|Site Android | [Link](https://github.com/patyfreitasbr/HTML5eCSS3-CursoEmVideo/tree/main/mod2/Desafios/d010-site_android)| [acesse](https://patyfreitasbr.github.io/HTML5eCSS3-CursoEmVideo/mod2/Desafios/d010-site_android/site-android.html) |
 
 
 
-# Conteúdos
+# Estudos
+Abaixo, você encontra todos os projetos, estudos e desafios realizados durantede cada módulo do curso.
 
-Clicando nos links dos modulos abaixo, você encontra todos os projetos, estudos e desafios de cada módulo do curso.
-- [Módulo 1](https://github.com/patyfreitasbr/HTML5eCSS3-CursoEmVideo/tree/main/mod1)
-- [Módulo 2 ](https://github.com/patyfreitasbr/HTML5eCSS3-CursoEmVideo/tree/main/mod2)
-- [Módulo 3]()
+| Curso             | Links                           |
+|-------------------|-----------------------------------|
+| [Módulo 1](https://github.com/patyfreitasbr/HTML5eCSS3-CursoEmVideo/tree/main/mod1)  | [Exercícios](https://github.com/patyfreitasbr/HTML5eCSS3-CursoEmVideo/tree/main/mod1/Exercicios/mod1) &#124; [Desafios](https://github.com/patyfreitasbr/HTML5eCSS3-CursoEmVideo/tree/main/mod1/Desafios/mod1)     |
+| [Módulo 2 ](https://github.com/patyfreitasbr/HTML5eCSS3-CursoEmVideo/tree/main/mod2) | [Exercícios](https://github.com/patyfreitasbr/HTML5eCSS3-CursoEmVideo/tree/main/mod2/Exercicios) &#124; [Desafios](https://github.com/patyfreitasbr/HTML5eCSS3-CursoEmVideo/tree/main/mod2/Desafios)             |
+| [Módulo 3]() | Em breve            |
 
 
 ## Contato
