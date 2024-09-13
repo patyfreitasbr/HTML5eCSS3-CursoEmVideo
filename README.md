@@ -2,11 +2,7 @@
 
 Projetos e estudos desenvolvidos durante minha jornada e evolução no aprendizado das linguagens HTML5 e CSS3. Estudo feito através dos cursos da escola **Curso em Vídeo do Gustavo Guanabara**.
 
-## 🔗Indice 
-
-- [Projetos desenvolvidos](#projetos-finais-desenvolvidos)
-- [Estudos](#estudos)
-- [Contato](#contato)
+[Projetos desenvolvidos](#projetos-finais-desenvolvidos) • [Estudos](#estudos) • [Contato](#contato)
 
 # Projetos finais desenvolvidos
   
